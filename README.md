@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![calculator-react](https://user-images.githubusercontent.com/129797100/229646177-4cc5572a-f9ea-43ed-8c6e-fc8cfa17b2ca.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
